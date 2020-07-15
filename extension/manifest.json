@@ -1,5 +1,5 @@
 {
-  "name": "Pop-out Jitsi Meet (forked from Jip-Hop/jitsi-pop)",
+  "name": "Popsicle Jitsi Meet (forked from Jip-Hop/jitsi-pop)",
   "version": "0.0.1",
   "manifest_version": 2,
   "description": "Open Jitsi Meet videos in pop-out windows.",
