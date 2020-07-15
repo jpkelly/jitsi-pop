@@ -1,5 +1,7 @@
 window.servers = [
   // "beta.meet.jit.si",
+  "meet.vevomo.com",
+  "virtualmeeting.live",
   "meet.jit.si",
   "8x8.vc",
   "jitsi.riot.im",
