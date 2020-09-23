@@ -1,6 +1,6 @@
 {
   "name": "Popsicle Jitsi Meet",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "manifest_version": 2,
   "description": "Open Jitsi Meet videos in pop-out windows. (forked from Jip-Hop/jitsi-pop)",
   "icons": {
@@ -25,10 +25,10 @@
     {
       "matches": [
         "https://meet.vevomo.com/*",
-        "https://virtualmeeting.live/*",
-        "https://meet.jit.si/*",
-        "https://8x8.vc/*",
-        "https://jitsi.riot.im/*"
+        "https://meet.vevomo.net/*",
+        "https://v.vevomo.com/*",
+        "https://dev.vevomo.com/*",
+        "https://virtualmeeting.live/*"
       ],
       "run_at": "document_start",
       "match_about_blank": true,
