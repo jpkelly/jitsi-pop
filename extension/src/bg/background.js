@@ -1,10 +1,10 @@
 window.servers = [
   // "beta.meet.jit.si",
   "meet.vevomo.com",
+  "meet2.vevomo.com",
   "meet.vevomo.net",
   "v.vevomo.com",
   "dev.vevomo.com",
-  "virtualmeeting.live",
 ];
 
 import { options } from "./jitsiConfig.js";
